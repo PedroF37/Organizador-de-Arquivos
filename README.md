@@ -21,6 +21,9 @@ Projeto trabalha apenas com arquivos, não com pastas. Projeto também não faz 
 ![alt text](https://github.com/PedroF37/Organizador-de-Arquivos/blob/main/imagens/img15.png)
 ##
 
+## Configuração:
+Configuração é simples: arquivo extensions.py, tem a lista das extensões de arquivos reconhecidos. Basta adicionar (ou deletar) extensões. Feito.
+
 ## Fonte usada no projeto:
 
 * `Roboto`
